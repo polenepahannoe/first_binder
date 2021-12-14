@@ -1,1 +1,1 @@
-install.packages(c("tidyverse", "ggrepel", "patchwork"))
+install.packages(c("tidyverse", "lme4", "lmerTest", "emmeans", "performance", "visdat", "fitdistrplus", "ordinal"))
